@@ -1,5 +1,4 @@
-# Computer-Vision
-Computer Vision practicals: 
+# Computer Vision Examples
 
 1.) Camera calibration and perspective correction using OpenCV 
 
